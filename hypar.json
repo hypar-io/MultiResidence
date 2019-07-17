@@ -1,0 +1,45 @@
+{
+  "$schema": "https://hypar.io/schemas/function.json",
+  "description": "The MultiResidence function.",
+  "id": "9922eac1-3870-42ff-b834-e474bea1a9ea",
+  "name": "MultiResidence",
+  "repository_url": "https://github.com/hypar-io/function",
+  "inputs": [
+    {
+      "name": "Site",
+      "description": "A CSV list of coordinates defining a site boundary.",
+      "type": "data",
+      "content_type": "text/csv"
+    },
+    {
+      "min": 2.0,
+      "max": 200.0,
+      "step": 2.0,
+      "name": "Units",
+      "description": "Quantity of family residences.",
+      "type": "range"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "Residence Quantity",
+      "description": "Quantity of Residences.",
+      "type": "number"
+    },
+    {
+      "name": "Total Area",
+      "description": "Aggregate area of all residences.",
+      "type": "number"
+    },
+    {
+      "name": "Site Coverage",
+      "description": "Site coverage ratio.",
+      "type": "number"
+    },
+    {
+      "name": "Building Height",
+      "description": "Height of building.",
+      "type": "number"
+    }
+  ]
+}

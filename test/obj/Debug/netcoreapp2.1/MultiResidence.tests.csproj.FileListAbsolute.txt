@@ -1,0 +1,17 @@
+C:\Users\aahau\GitHub\MultiResidence\test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\aahau\GitHub\MultiResidence\test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\aahau\GitHub\MultiResidence\test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\aahau\GitHub\MultiResidence\test\bin\Debug\netcoreapp2.1\MultiResidence.tests.deps.json
+C:\Users\aahau\GitHub\MultiResidence\test\bin\Debug\netcoreapp2.1\MultiResidence.tests.runtimeconfig.json
+C:\Users\aahau\GitHub\MultiResidence\test\bin\Debug\netcoreapp2.1\MultiResidence.tests.runtimeconfig.dev.json
+C:\Users\aahau\GitHub\MultiResidence\test\bin\Debug\netcoreapp2.1\MultiResidence.tests.dll
+C:\Users\aahau\GitHub\MultiResidence\test\bin\Debug\netcoreapp2.1\MultiResidence.tests.pdb
+C:\Users\aahau\GitHub\MultiResidence\test\bin\Debug\netcoreapp2.1\MultiResidence.dll
+C:\Users\aahau\GitHub\MultiResidence\test\bin\Debug\netcoreapp2.1\MultiResidence.pdb
+C:\Users\aahau\GitHub\MultiResidence\test\obj\Debug\netcoreapp2.1\MultiResidence.tests.csprojAssemblyReference.cache
+C:\Users\aahau\GitHub\MultiResidence\test\obj\Debug\netcoreapp2.1\MultiResidence.tests.csproj.CoreCompileInputs.cache
+C:\Users\aahau\GitHub\MultiResidence\test\obj\Debug\netcoreapp2.1\MultiResidence.tests.AssemblyInfoInputs.cache
+C:\Users\aahau\GitHub\MultiResidence\test\obj\Debug\netcoreapp2.1\MultiResidence.tests.AssemblyInfo.cs
+C:\Users\aahau\GitHub\MultiResidence\test\obj\Debug\netcoreapp2.1\MultiResidence.tests.csproj.CopyComplete
+C:\Users\aahau\GitHub\MultiResidence\test\obj\Debug\netcoreapp2.1\MultiResidence.tests.dll
+C:\Users\aahau\GitHub\MultiResidence\test\obj\Debug\netcoreapp2.1\MultiResidence.tests.pdb

@@ -1,0 +1,11 @@
+C:\Users\aahau\GitHub\MultiResidence\src\bin\Release\netcoreapp2.1\linux-x64\MultiResidence.deps.json
+C:\Users\aahau\GitHub\MultiResidence\src\bin\Release\netcoreapp2.1\linux-x64\MultiResidence.runtimeconfig.json
+C:\Users\aahau\GitHub\MultiResidence\src\bin\Release\netcoreapp2.1\linux-x64\MultiResidence.runtimeconfig.dev.json
+C:\Users\aahau\GitHub\MultiResidence\src\bin\Release\netcoreapp2.1\linux-x64\MultiResidence.dll
+C:\Users\aahau\GitHub\MultiResidence\src\bin\Release\netcoreapp2.1\linux-x64\MultiResidence.pdb
+C:\Users\aahau\GitHub\MultiResidence\src\obj\Release\netcoreapp2.1\linux-x64\MultiResidence.csprojAssemblyReference.cache
+C:\Users\aahau\GitHub\MultiResidence\src\obj\Release\netcoreapp2.1\linux-x64\MultiResidence.csproj.CoreCompileInputs.cache
+C:\Users\aahau\GitHub\MultiResidence\src\obj\Release\netcoreapp2.1\linux-x64\MultiResidence.AssemblyInfoInputs.cache
+C:\Users\aahau\GitHub\MultiResidence\src\obj\Release\netcoreapp2.1\linux-x64\MultiResidence.AssemblyInfo.cs
+C:\Users\aahau\GitHub\MultiResidence\src\obj\Release\netcoreapp2.1\linux-x64\MultiResidence.dll
+C:\Users\aahau\GitHub\MultiResidence\src\obj\Release\netcoreapp2.1\linux-x64\MultiResidence.pdb
